@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+*.pyo
+*.sock
+_mentalmodel_log.jsonl
