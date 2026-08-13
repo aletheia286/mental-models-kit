@@ -40,7 +40,7 @@ CASES = [
     ("Evidenza & giudizio", "Tutti dicono che questo metodo di studio funziona ma non ho visto uno straccio di prova solida, vale la pena verificarlo prima di adottarlo?"),
     ("Evidenza & giudizio", "Il consulente energetico sostiene una cosa, il sito del produttore un'altra completamente diversa, chi ha ragione secondo i dati reali?"),
 
-    ("Conoscenza & apprendimento", "Sto cercando un modo migliore per organizzare le mie note del vault così non le dimentico dopo due settimane."),
+    ("Conoscenza & apprendimento", "Sto cercando un modo migliore per organizzare le mie note così non le dimentico dopo due settimane."),
     ("Conoscenza & apprendimento", "Vorrei migliorare come strutturo lo studio del nuovo linguaggio di programmazione, sento che non mi resta in testa niente."),
     ("Conoscenza & apprendimento", "Come posso rivedere periodicamente quello che ho imparato sul project management così non lo perdo nel tempo?"),
 
