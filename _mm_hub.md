@@ -10,12 +10,13 @@ Dal risultato del comando, scegli 1-2 modelli al massimo dalla colonna "Quando u
 
 | Categoria | Quando aprire il file | File |
 |---|---|---|
-| Decisioni & trade-off | Decisione/scelta tra opzioni o alternative, trade-off, scelta in condizioni di incertezza, negoziazione. Es: due architetture con pro/contro reali → trigger. Aggiungere un tag → NON trigger. Include anche: scegli, decide. | `mm_decisions.md` |
+| Decisioni & trade-off | Decisione/scelta tra opzioni o alternative, trade-off, scelta in condizioni di incertezza, negoziazione. Es: due architetture con pro/contro reali → trigger. Aggiungere un tag → NON trigger. Include anche: scegli, decide, investire, convenire, tassi. | `mm_decisions.md` |
 | Problemi & causa radice | Bug/problema ricorrente, serve la causa vera non il sintomo | `mm_problems.md` |
 | Sistemi & complessità | Comportamento che si autoalimenta/stabilizza senza intervento esterno, manutenzione trascurata | `mm_systems.md` |
-| Bias & psicologia decisionale | Rischio di giudizio distorto (proprio o altrui) | `mm_bias.md` |
+| Bias & psicologia decisionale | Rischio di giudizio distorto (proprio o altrui). Include anche: temere, avere paura, storico. | `mm_bias.md` |
 | Comunicazione efficace | Serve calibrare come comunicare/spiegare/dire qualcosa di delicato a qualcuno (messaggio, tono, confronto) | `mm_communication.md` |
 | Strategia & competitività | Business, mercato, allocazione risorse, priorità | `mm_strategic.md` |
+| Finanza & investimento personale | Decisione o ansia legata a investimenti, portafoglio, mercato, rischio finanziario personale. Include anche: azioni, pensione, fondo, consulente, guadagno, vendere. | `mm_finance.md` |
 | Evidenza & giudizio | Fonti o pareri contrastanti, affermazione/statistica/teoria popolare da verificare, claim che sembra troppo bello per essere vero | `mm_evidence.md` |
 | Conoscenza & apprendimento | Ritenzione, organizzazione note, miglioramento di una skill | `mm_knowledge.md` |
 | Pattern personali (tuoi) | Coerenza tra una scelta ricorrente e i pattern comportamentali già osservati in passato (non gusti estemporanei) | `mm_personal.md` |
